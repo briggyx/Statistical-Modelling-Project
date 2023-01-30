@@ -1,0 +1,301 @@
+Bike_Station_ID,Bike_Station_Coordinates,Bike_Station_Num_Bikes,POI_Distance,POI_API,POI_Query,POI_Categories,POI_Name,POI_Address,POI_Price,POI_Rating,POI_Num_Ratings
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,42.0,Yelp,Restaurants,"Japanese, Sushi Bars",Takara Sushi,"4243 18th St San Francisco, CA 94114",2.0,3.5,331.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,45.0,Yelp,"Bars, Restaurants","Cocktail Bars, Italian, Pizza",Vico Cavone,"4248 18th St San Francisco, CA 94114",,4.0,133.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,48.0,Yelp,Restaurants,"Food Delivery Services, Mexican",Nachos Muchachos,"4150 18th St San Francisco, CA 94114",,1.0,1.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,48.0,Yelp,Restaurants,"Food Delivery Services, Mexican",Sunny & Fine's Breakfast Burritos,"4150 18th St San Francisco, CA 94114",,1.5,7.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,50.0,Yelp,Restaurants,"Chicken Shop, Comfort Food, Food Delivery Services",Tyga Bites,"San Francisco, CA 94114",,2.0,1.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,59.0,Yelp,Restaurants,Thai,Thai Chef,"4133 18th St San Francisco, CA 94114",2.0,3.5,278.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,113.0,Yelp,"Bars, Restaurants","French, Wine Bars",Blush!,"476 Castro St San Francisco, CA 94114",2.0,4.0,321.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,113.0,Yelp,"Bars, Restaurants","American (New), Cocktail Bars, Indian",Castro Restaurant & Brewhouse,"468 Castro St San Francisco, CA 94114",,5.0,2.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,117.0,Yelp,Restaurants,"Pizza, Salad",Oz Pizza,"508 Castro St San Francisco, CA 94114",1.0,3.5,225.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,122.0,Yelp,Restaurants,"Japanese, Sushi Bars",Wasabi Bistro,"524 Castro St San Francisco, CA 94114",2.0,4.0,552.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,127.0,Yelp,Restaurants,"Breakfast & Brunch, Burgers, Mediterranean",Cafe Mystique,"464 Castro St San Francisco, CA 94114",2.0,3.5,675.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,139.0,Yelp,Restaurants,"Dim Sum, Noodles",Dumpling Kitchen,"544 Castro St San Francisco, CA 94114",2.0,4.5,56.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,147.0,Yelp,Restaurants,"American (Traditional), Diners",The Cove on Castro Cafe,"434 Castro St San Francisco, CA 94114",2.0,3.5,322.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,149.0,Yelp,Restaurants,Mexican,La Tortilla,"495 Castro St San Francisco, CA 94114",1.0,2.5,347.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,153.0,Yelp,Restaurants,"Beer, Wine & Spirits, Delis",Rossis Deli,"426 Castro St San Francisco, CA 94114",1.0,4.5,191.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,154.0,Yelp,Restaurants,"Italian, Pizza, Salad",The Sausage Factory,"517 Castro St San Francisco, CA 94114",2.0,3.5,622.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,158.0,Yelp,Restaurants,"Breakfast & Brunch, Sandwiches, Vietnamese",Castro Tarts,"564 Castro St San Francisco, CA 94114",1.0,4.0,317.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,158.0,Yelp,"Bars, Restaurants","American (New), Breakfast & Brunch, Wine Bars",Fable,"558 Castro St San Francisco, CA 94114",2.0,4.0,754.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,159.0,Yelp,Restaurants,Vietnamese,Tanglad,"469 Castro St San Francisco, CA 94114",2.0,4.5,225.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,163.0,Yelp,"Bars, Restaurants","Breakfast & Brunch, Cocktail Bars, Comfort Food",Wicked 6 Bar & Bites,"4092 18th St San Francisco, CA 94114",2.0,5.0,13.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,167.0,Yelp,Restaurants,"Greek, Kebab, Mediterranean",Gyro Xpress,"499 Castro St San Francisco, CA 94114",2.0,3.5,501.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,167.0,Yelp,"Bars, Restaurants","Italian, Sandwiches, Wine Bars",Heroic Italian,"572 Castro St Swirl on Castro Wine Bar San Francisco, CA 94114",,4.5,99.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,168.0,Yelp,Restaurants,"Gluten-Free, Pizza, Salad",Marcello's Pizza,"420 Castro St San Francisco, CA 94114",1.0,4.0,771.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,171.0,Yelp,Restaurants,"Caterers, Mediterranean, Turkish",Park Gyros Castro Catering & Events,"449 Castro St San Francisco, CA 94114",,4.0,1.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,172.0,Yelp,Restaurants,"Barbeque, Breakfast & Brunch, Sandwiches",HOT JOHNNIES,"4077 18th St San Francisco, CA 94114",2.0,4.5,360.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,180.0,Yelp,Restaurants,"Coffee & Tea, Italian",Poesia Caf,"4076 18th St San Francisco, CA 94114",,5.0,20.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,182.0,Yelp,Restaurants,"Breakfast & Brunch, Coffee & Tea",Philz Coffee,"549 Castro St San Francisco, CA 94114",1.0,4.5,1104.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,185.0,Yelp,"Bars, Restaurants","Bars, Italian",Poesia,"4072 18th St San Francisco, CA 94114",3.0,4.0,869.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,197.0,Yelp,"Bars, Restaurants","Cocktail Bars, Greek, Mediterranean",Lark,"4068 18th St San Francisco, CA 94114",2.0,4.0,319.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,199.0,Yelp,Restaurants,Seafood,Anchor Oyster Bar,"579 Castro St San Francisco, CA 94114",2.0,4.5,1626.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,201.0,Yelp,Restaurants,"Dim Sum, Szechuan",MaMa Ji's,"4416 18th St San Francisco, CA 94114",2.0,4.0,867.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,201.0,Yelp,Restaurants,"Creperies, Pizza, Sandwiches",Pizzalicious,"417 Castro St San Francisco, CA 94114",,3.0,13.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,208.0,Yelp,"Bars, Restaurants","American (New), Wine Bars",Blind Butcher,"4058 18th St San Francisco, CA 94114",2.0,4.0,207.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,209.0,Yelp,Restaurants,"American (Traditional), Breakfast & Brunch, Diners",Orphan Andy's,"3991 17th St San Francisco, CA 94114",2.0,3.5,1034.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,215.0,Yelp,Restaurants,"Brazilian, Coffee & Tea",Cafe De Casa,"3985 17th St San Francisco, CA 94114",2.0,4.5,136.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,226.0,Yelp,Restaurants,"Noodles, Thai",Thai House Express,"599 Castro St San Francisco, CA 94114",2.0,3.5,656.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,241.0,Yelp,Restaurants,"Chicken Wings, Fast Food, Thai",Hungry Hub,"4039 18th St San Francisco, CA 94114",,4.5,4.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,241.0,Yelp,Restaurants,"Chicken Shop, Thai",Rooster & Rice,"4039 18th St San Francisco, CA 94114",2.0,4.0,59.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,241.0,Yelp,Restaurants,"Chicken Shop, Noodles, Soup",Mr.Hen Noodle House,"4039 18th St San Francisco, CA 94114",,4.5,4.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,280.0,Yelp,Restaurants,"Japanese, Soup, Sushi Bars",Niji Sushi & Bar,"3970 17th St San Francisco, CA 94114",,4.0,11.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,304.0,Yelp,Restaurants,"Indian, Salad, Vegan",Kasa Indian Eatery,"4001 18th St San Francisco, CA 94114",1.0,3.5,1133.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,323.0,Yelp,Restaurants,"American (New), Breakfast & Brunch, Seafood",Catch,"2362 Market St San Francisco, CA 94114",2.0,3.5,1009.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,330.0,Yelp,Restaurants,"Food Trucks, Ice Cream & Frozen Yogurt, Sandwiches",Treats By The Bay,"San Francisco, CA 94114",,4.5,9.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,350.0,Yelp,Restaurants,"Latin American, Mexican",Tacorgasmico,"2337 Market St San Francisco, CA 94114",2.0,4.0,332.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,399.0,Yelp,Restaurants,"Tacos, Vegan",Taco Boys,"2312 Market St San Francisco, CA 94114",2.0,4.0,99.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,418.0,Yelp,"Bars, Restaurants","American (New), Wine Bars",Frances,"3870 17th St San Francisco, CA 94114",3.0,4.5,1541.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,419.0,Yelp,Restaurants,"American (Traditional), Burgers",Super Duper Burgers,"2304 Market St San Francisco, CA 94114",2.0,4.0,1419.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,425.0,Yelp,Restaurants,"Breakfast & Brunch, Coffee & Tea, Sandwiches",Cafe Josephine,"199 Museum Way San Francisco, CA 94114",,5.0,24.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,436.0,Yelp,Restaurants,"Asian Fusion, Dim Sum",Dumpling House,"335 Noe St San Francisco, CA 94114",2.0,4.5,404.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,458.0,Yelp,Restaurants,Mexican,Bonita Taqueria Y Rotisserie,"3600 16th St San Francisco, CA 94114",2.0,4.5,77.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,44.0,Yelp,Bars,Cocktail Bars,Lobby Bar,"4230 18th St San Francisco, CA 94114",,4.5,21.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,45.0,Yelp,Bars,Gay Bars,The Edge,"4149 18th St San Francisco, CA 94114",1.0,3.5,185.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,45.0,Yelp,Bars,Gay Bars,Toad Hall Bar,"4146 18th St San Francisco, CA 94114",1.0,3.5,295.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,163.0,Yelp,Bars,Gay Bars,440 Castro,"440 Castro St San Francisco, CA 94114",1.0,3.5,213.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,167.0,Yelp,Bars,"Beer, Wine & Spirits, Wine Bars",Swirl on Castro,"572 Castro St San Francisco, CA 94114",2.0,4.5,134.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,169.0,Yelp,Bars,Gay Bars,The Mix,"4086 18th St San Francisco, CA 94114",2.0,3.5,303.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,187.0,Yelp,Bars,"Cocktail Bars, Gay Bars",Midnight Sun,"4067 18th St Castro San Francisco, CA 94114",1.0,3.5,202.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,212.0,Yelp,Bars,Gay Bars,Twin Peaks Tavern,"401 Castro St San Francisco, CA 94114",2.0,4.0,211.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,232.0,Yelp,Bars,Gay Bars,Moby Dick,"4049 18th St San Francisco, CA 94114",1.0,3.5,222.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,295.0,Yelp,Bars,"Dance Clubs, Gay Bars",The Caf,"2369 Market St San Francisco, CA 94114",2.0,3.5,308.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,348.0,Yelp,Bars,"Dive Bars, Gay Bars, Pubs",Last Call Bar,"3988 18th St San Francisco, CA 94114",1.0,4.5,106.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,362.0,Yelp,Bars,"Cocktail Bars, Dance Clubs, Gay Bars",Beaux,"2344 Market St San Francisco, CA 94114",2.0,3.5,290.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,458.0,Yelp,Bars,Gay Bars,Lookout,"3600 16th St San Francisco, CA 94114",2.0,3.5,356.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,490.0,Yelp,Bars,"American (New), Breakfast & Brunch, Cocktail Bars",Starbelly,"3583 16th St San Francisco, CA 94114",2.0,4.0,2162.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,565.0,Yelp,Bars,"Spanish, Tapas Bars, Wine Bars",Canela Bistro & Wine Bar,"2272 Market St San Francisco, CA 94114",3.0,4.5,755.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,603.0,Yelp,Bars,"Cocktail Bars, Mexican",Santeria,"2251 Market St San Francisco, CA 94114",2.0,4.5,249.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,611.0,Yelp,Bars,"American (New), Gay Bars, Sports Bars",Hi Tops,"2247 Market St San Francisco, CA 94114",2.0,4.0,456.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,693.0,Yelp,Bars,"Beer Bar, Breweries, Wineries",Woods Cervecera,"3801 18th St San Francisco, CA 94114",2.0,4.0,221.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,694.0,Yelp,Bars,"Arcades, Cocktail Bars, Pan Asian",The Detour,"2200 Market St Ste A San Francisco, CA 94114",2.0,4.0,371.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,700.0,Yelp,Bars,"Desserts, French, Wine Bars",LArdoise Bistro,"151 Noe St San Francisco, CA 94114",3.0,4.5,1382.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,930.0,Yelp,Bars,"French, Wine Bars",Aquitaine,"216 Church Street San Francisco, CA 94114",2.0,4.0,352.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,944.0,Yelp,Bars,"Bars, Venues & Event Spaces",Blackbird,"2124 Market St San Francisco, CA 94114",2.0,4.0,696.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,959.0,Yelp,Bars,"Cocktail Bars, Italian, Pizza",Il Casaro Pizzeria & Mozzarella Bar -  Castro,"235 Church St San Francisco, CA 94114",2.0,4.0,223.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,964.0,Yelp,Bars,Gay Bars,Pilsner Inn,"225 Church St San Francisco, CA 94114",1.0,3.5,253.0
+40205ede-0c43-44ab-8c9c-0d8ecd9f854e,"0,37.8628271",-122.2902305,994.0,Yelp,Bars,"Cocktail Bars, Tiki Bars",Last Rites,"718 14th St San Francisco, CA 94114",2.0,4.5,307.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,42.0,Yelp,Restaurants,"Japanese, Sushi Bars",Takara Sushi,"4243 18th St San Francisco, CA 94114",2.0,3.5,331.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,45.0,Yelp,"Bars, Restaurants","Cocktail Bars, Italian, Pizza",Vico Cavone,"4248 18th St San Francisco, CA 94114",,4.0,133.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,48.0,Yelp,Restaurants,"Food Delivery Services, Mexican",Nachos Muchachos,"4150 18th St San Francisco, CA 94114",,1.0,1.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,48.0,Yelp,Restaurants,"Food Delivery Services, Mexican",Sunny & Fine's Breakfast Burritos,"4150 18th St San Francisco, CA 94114",,1.5,7.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,50.0,Yelp,Restaurants,"Chicken Shop, Comfort Food, Food Delivery Services",Tyga Bites,"San Francisco, CA 94114",,2.0,1.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,59.0,Yelp,Restaurants,Thai,Thai Chef,"4133 18th St San Francisco, CA 94114",2.0,3.5,278.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,113.0,Yelp,"Bars, Restaurants","French, Wine Bars",Blush!,"476 Castro St San Francisco, CA 94114",2.0,4.0,321.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,113.0,Yelp,"Bars, Restaurants","American (New), Cocktail Bars, Indian",Castro Restaurant & Brewhouse,"468 Castro St San Francisco, CA 94114",,5.0,2.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,117.0,Yelp,Restaurants,"Pizza, Salad",Oz Pizza,"508 Castro St San Francisco, CA 94114",1.0,3.5,225.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,122.0,Yelp,Restaurants,"Japanese, Sushi Bars",Wasabi Bistro,"524 Castro St San Francisco, CA 94114",2.0,4.0,552.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,127.0,Yelp,Restaurants,"Breakfast & Brunch, Burgers, Mediterranean",Cafe Mystique,"464 Castro St San Francisco, CA 94114",2.0,3.5,675.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,139.0,Yelp,Restaurants,"Dim Sum, Noodles",Dumpling Kitchen,"544 Castro St San Francisco, CA 94114",2.0,4.5,56.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,147.0,Yelp,Restaurants,"American (Traditional), Diners",The Cove on Castro Cafe,"434 Castro St San Francisco, CA 94114",2.0,3.5,322.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,149.0,Yelp,Restaurants,Mexican,La Tortilla,"495 Castro St San Francisco, CA 94114",1.0,2.5,347.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,153.0,Yelp,Restaurants,"Beer, Wine & Spirits, Delis",Rossis Deli,"426 Castro St San Francisco, CA 94114",1.0,4.5,191.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,154.0,Yelp,Restaurants,"Italian, Pizza, Salad",The Sausage Factory,"517 Castro St San Francisco, CA 94114",2.0,3.5,622.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,158.0,Yelp,Restaurants,"Breakfast & Brunch, Sandwiches, Vietnamese",Castro Tarts,"564 Castro St San Francisco, CA 94114",1.0,4.0,317.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,158.0,Yelp,"Bars, Restaurants","American (New), Breakfast & Brunch, Wine Bars",Fable,"558 Castro St San Francisco, CA 94114",2.0,4.0,754.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,159.0,Yelp,Restaurants,Vietnamese,Tanglad,"469 Castro St San Francisco, CA 94114",2.0,4.5,225.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,163.0,Yelp,"Bars, Restaurants","Breakfast & Brunch, Cocktail Bars, Comfort Food",Wicked 6 Bar & Bites,"4092 18th St San Francisco, CA 94114",2.0,5.0,13.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,167.0,Yelp,Restaurants,"Greek, Kebab, Mediterranean",Gyro Xpress,"499 Castro St San Francisco, CA 94114",2.0,3.5,501.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,167.0,Yelp,"Bars, Restaurants","Italian, Sandwiches, Wine Bars",Heroic Italian,"572 Castro St Swirl on Castro Wine Bar San Francisco, CA 94114",,4.5,99.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,168.0,Yelp,Restaurants,"Gluten-Free, Pizza, Salad",Marcello's Pizza,"420 Castro St San Francisco, CA 94114",1.0,4.0,771.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,171.0,Yelp,Restaurants,"Caterers, Mediterranean, Turkish",Park Gyros Castro Catering & Events,"449 Castro St San Francisco, CA 94114",,4.0,1.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,172.0,Yelp,Restaurants,"Barbeque, Breakfast & Brunch, Sandwiches",HOT JOHNNIES,"4077 18th St San Francisco, CA 94114",2.0,4.5,360.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,180.0,Yelp,Restaurants,"Coffee & Tea, Italian",Poesia Caf,"4076 18th St San Francisco, CA 94114",,5.0,20.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,182.0,Yelp,Restaurants,"Breakfast & Brunch, Coffee & Tea",Philz Coffee,"549 Castro St San Francisco, CA 94114",1.0,4.5,1104.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,185.0,Yelp,"Bars, Restaurants","Bars, Italian",Poesia,"4072 18th St San Francisco, CA 94114",3.0,4.0,869.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,197.0,Yelp,"Bars, Restaurants","Cocktail Bars, Greek, Mediterranean",Lark,"4068 18th St San Francisco, CA 94114",2.0,4.0,319.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,199.0,Yelp,Restaurants,Seafood,Anchor Oyster Bar,"579 Castro St San Francisco, CA 94114",2.0,4.5,1626.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,201.0,Yelp,Restaurants,"Dim Sum, Szechuan",MaMa Ji's,"4416 18th St San Francisco, CA 94114",2.0,4.0,867.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,201.0,Yelp,Restaurants,"Creperies, Pizza, Sandwiches",Pizzalicious,"417 Castro St San Francisco, CA 94114",,3.0,13.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,208.0,Yelp,"Bars, Restaurants","American (New), Wine Bars",Blind Butcher,"4058 18th St San Francisco, CA 94114",2.0,4.0,207.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,209.0,Yelp,Restaurants,"American (Traditional), Breakfast & Brunch, Diners",Orphan Andy's,"3991 17th St San Francisco, CA 94114",2.0,3.5,1034.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,215.0,Yelp,Restaurants,"Brazilian, Coffee & Tea",Cafe De Casa,"3985 17th St San Francisco, CA 94114",2.0,4.5,136.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,226.0,Yelp,Restaurants,"Noodles, Thai",Thai House Express,"599 Castro St San Francisco, CA 94114",2.0,3.5,656.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,241.0,Yelp,Restaurants,"Chicken Wings, Fast Food, Thai",Hungry Hub,"4039 18th St San Francisco, CA 94114",,4.5,4.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,241.0,Yelp,Restaurants,"Chicken Shop, Thai",Rooster & Rice,"4039 18th St San Francisco, CA 94114",2.0,4.0,59.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,241.0,Yelp,Restaurants,"Chicken Shop, Noodles, Soup",Mr.Hen Noodle House,"4039 18th St San Francisco, CA 94114",,4.5,4.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,280.0,Yelp,Restaurants,"Japanese, Soup, Sushi Bars",Niji Sushi & Bar,"3970 17th St San Francisco, CA 94114",,4.0,11.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,304.0,Yelp,Restaurants,"Indian, Salad, Vegan",Kasa Indian Eatery,"4001 18th St San Francisco, CA 94114",1.0,3.5,1133.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,323.0,Yelp,Restaurants,"American (New), Breakfast & Brunch, Seafood",Catch,"2362 Market St San Francisco, CA 94114",2.0,3.5,1009.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,330.0,Yelp,Restaurants,"Food Trucks, Ice Cream & Frozen Yogurt, Sandwiches",Treats By The Bay,"San Francisco, CA 94114",,4.5,9.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,350.0,Yelp,Restaurants,"Latin American, Mexican",Tacorgasmico,"2337 Market St San Francisco, CA 94114",2.0,4.0,332.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,399.0,Yelp,Restaurants,"Tacos, Vegan",Taco Boys,"2312 Market St San Francisco, CA 94114",2.0,4.0,99.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,418.0,Yelp,"Bars, Restaurants","American (New), Wine Bars",Frances,"3870 17th St San Francisco, CA 94114",3.0,4.5,1541.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,419.0,Yelp,Restaurants,"American (Traditional), Burgers",Super Duper Burgers,"2304 Market St San Francisco, CA 94114",2.0,4.0,1419.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,425.0,Yelp,Restaurants,"Breakfast & Brunch, Coffee & Tea, Sandwiches",Cafe Josephine,"199 Museum Way San Francisco, CA 94114",,5.0,24.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,436.0,Yelp,Restaurants,"Asian Fusion, Dim Sum",Dumpling House,"335 Noe St San Francisco, CA 94114",2.0,4.5,404.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,458.0,Yelp,Restaurants,Mexican,Bonita Taqueria Y Rotisserie,"3600 16th St San Francisco, CA 94114",2.0,4.5,77.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,44.0,Yelp,Bars,Cocktail Bars,Lobby Bar,"4230 18th St San Francisco, CA 94114",,4.5,21.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,45.0,Yelp,Bars,Gay Bars,The Edge,"4149 18th St San Francisco, CA 94114",1.0,3.5,185.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,45.0,Yelp,Bars,Gay Bars,Toad Hall Bar,"4146 18th St San Francisco, CA 94114",1.0,3.5,295.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,163.0,Yelp,Bars,Gay Bars,440 Castro,"440 Castro St San Francisco, CA 94114",1.0,3.5,213.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,167.0,Yelp,Bars,"Beer, Wine & Spirits, Wine Bars",Swirl on Castro,"572 Castro St San Francisco, CA 94114",2.0,4.5,134.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,169.0,Yelp,Bars,Gay Bars,The Mix,"4086 18th St San Francisco, CA 94114",2.0,3.5,303.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,187.0,Yelp,Bars,"Cocktail Bars, Gay Bars",Midnight Sun,"4067 18th St Castro San Francisco, CA 94114",1.0,3.5,202.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,212.0,Yelp,Bars,Gay Bars,Twin Peaks Tavern,"401 Castro St San Francisco, CA 94114",2.0,4.0,211.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,232.0,Yelp,Bars,Gay Bars,Moby Dick,"4049 18th St San Francisco, CA 94114",1.0,3.5,222.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,295.0,Yelp,Bars,"Dance Clubs, Gay Bars",The Caf,"2369 Market St San Francisco, CA 94114",2.0,3.5,308.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,348.0,Yelp,Bars,"Dive Bars, Gay Bars, Pubs",Last Call Bar,"3988 18th St San Francisco, CA 94114",1.0,4.5,106.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,362.0,Yelp,Bars,"Cocktail Bars, Dance Clubs, Gay Bars",Beaux,"2344 Market St San Francisco, CA 94114",2.0,3.5,290.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,458.0,Yelp,Bars,Gay Bars,Lookout,"3600 16th St San Francisco, CA 94114",2.0,3.5,356.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,490.0,Yelp,Bars,"American (New), Breakfast & Brunch, Cocktail Bars",Starbelly,"3583 16th St San Francisco, CA 94114",2.0,4.0,2162.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,565.0,Yelp,Bars,"Spanish, Tapas Bars, Wine Bars",Canela Bistro & Wine Bar,"2272 Market St San Francisco, CA 94114",3.0,4.5,755.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,603.0,Yelp,Bars,"Cocktail Bars, Mexican",Santeria,"2251 Market St San Francisco, CA 94114",2.0,4.5,249.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,611.0,Yelp,Bars,"American (New), Gay Bars, Sports Bars",Hi Tops,"2247 Market St San Francisco, CA 94114",2.0,4.0,456.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,693.0,Yelp,Bars,"Beer Bar, Breweries, Wineries",Woods Cervecera,"3801 18th St San Francisco, CA 94114",2.0,4.0,221.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,694.0,Yelp,Bars,"Arcades, Cocktail Bars, Pan Asian",The Detour,"2200 Market St Ste A San Francisco, CA 94114",2.0,4.0,371.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,700.0,Yelp,Bars,"Desserts, French, Wine Bars",LArdoise Bistro,"151 Noe St San Francisco, CA 94114",3.0,4.5,1382.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,930.0,Yelp,Bars,"French, Wine Bars",Aquitaine,"216 Church Street San Francisco, CA 94114",2.0,4.0,352.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,944.0,Yelp,Bars,"Bars, Venues & Event Spaces",Blackbird,"2124 Market St San Francisco, CA 94114",2.0,4.0,696.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,959.0,Yelp,Bars,"Cocktail Bars, Italian, Pizza",Il Casaro Pizzeria & Mozzarella Bar -  Castro,"235 Church St San Francisco, CA 94114",2.0,4.0,223.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,964.0,Yelp,Bars,Gay Bars,Pilsner Inn,"225 Church St San Francisco, CA 94114",1.0,3.5,253.0
+c7879d87-34c8-4b23-9c07-250fb012bd4b,"0,37.7423139",-122.4231805,994.0,Yelp,Bars,"Cocktail Bars, Tiki Bars",Last Rites,"718 14th St San Francisco, CA 94114",2.0,4.5,307.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,42.0,Yelp,Restaurants,"Japanese, Sushi Bars",Takara Sushi,"4243 18th St San Francisco, CA 94114",2.0,3.5,331.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,45.0,Yelp,"Bars, Restaurants","Cocktail Bars, Italian, Pizza",Vico Cavone,"4248 18th St San Francisco, CA 94114",,4.0,133.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,48.0,Yelp,Restaurants,"Food Delivery Services, Mexican",Nachos Muchachos,"4150 18th St San Francisco, CA 94114",,1.0,1.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,48.0,Yelp,Restaurants,"Food Delivery Services, Mexican",Sunny & Fine's Breakfast Burritos,"4150 18th St San Francisco, CA 94114",,1.5,7.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,50.0,Yelp,Restaurants,"Chicken Shop, Comfort Food, Food Delivery Services",Tyga Bites,"San Francisco, CA 94114",,2.0,1.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,59.0,Yelp,Restaurants,Thai,Thai Chef,"4133 18th St San Francisco, CA 94114",2.0,3.5,278.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,113.0,Yelp,"Bars, Restaurants","French, Wine Bars",Blush!,"476 Castro St San Francisco, CA 94114",2.0,4.0,321.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,113.0,Yelp,"Bars, Restaurants","American (New), Cocktail Bars, Indian",Castro Restaurant & Brewhouse,"468 Castro St San Francisco, CA 94114",,5.0,2.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,117.0,Yelp,Restaurants,"Pizza, Salad",Oz Pizza,"508 Castro St San Francisco, CA 94114",1.0,3.5,225.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,122.0,Yelp,Restaurants,"Japanese, Sushi Bars",Wasabi Bistro,"524 Castro St San Francisco, CA 94114",2.0,4.0,552.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,127.0,Yelp,Restaurants,"Breakfast & Brunch, Burgers, Mediterranean",Cafe Mystique,"464 Castro St San Francisco, CA 94114",2.0,3.5,675.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,139.0,Yelp,Restaurants,"Dim Sum, Noodles",Dumpling Kitchen,"544 Castro St San Francisco, CA 94114",2.0,4.5,56.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,147.0,Yelp,Restaurants,"American (Traditional), Diners",The Cove on Castro Cafe,"434 Castro St San Francisco, CA 94114",2.0,3.5,322.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,149.0,Yelp,Restaurants,Mexican,La Tortilla,"495 Castro St San Francisco, CA 94114",1.0,2.5,347.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,153.0,Yelp,Restaurants,"Beer, Wine & Spirits, Delis",Rossis Deli,"426 Castro St San Francisco, CA 94114",1.0,4.5,191.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,154.0,Yelp,Restaurants,"Italian, Pizza, Salad",The Sausage Factory,"517 Castro St San Francisco, CA 94114",2.0,3.5,622.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,158.0,Yelp,Restaurants,"Breakfast & Brunch, Sandwiches, Vietnamese",Castro Tarts,"564 Castro St San Francisco, CA 94114",1.0,4.0,317.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,158.0,Yelp,"Bars, Restaurants","American (New), Breakfast & Brunch, Wine Bars",Fable,"558 Castro St San Francisco, CA 94114",2.0,4.0,754.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,159.0,Yelp,Restaurants,Vietnamese,Tanglad,"469 Castro St San Francisco, CA 94114",2.0,4.5,225.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,163.0,Yelp,"Bars, Restaurants","Breakfast & Brunch, Cocktail Bars, Comfort Food",Wicked 6 Bar & Bites,"4092 18th St San Francisco, CA 94114",2.0,5.0,13.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,167.0,Yelp,Restaurants,"Greek, Kebab, Mediterranean",Gyro Xpress,"499 Castro St San Francisco, CA 94114",2.0,3.5,501.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,167.0,Yelp,"Bars, Restaurants","Italian, Sandwiches, Wine Bars",Heroic Italian,"572 Castro St Swirl on Castro Wine Bar San Francisco, CA 94114",,4.5,99.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,168.0,Yelp,Restaurants,"Gluten-Free, Pizza, Salad",Marcello's Pizza,"420 Castro St San Francisco, CA 94114",1.0,4.0,771.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,171.0,Yelp,Restaurants,"Caterers, Mediterranean, Turkish",Park Gyros Castro Catering & Events,"449 Castro St San Francisco, CA 94114",,4.0,1.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,172.0,Yelp,Restaurants,"Barbeque, Breakfast & Brunch, Sandwiches",HOT JOHNNIES,"4077 18th St San Francisco, CA 94114",2.0,4.5,360.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,180.0,Yelp,Restaurants,"Coffee & Tea, Italian",Poesia Caf,"4076 18th St San Francisco, CA 94114",,5.0,20.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,182.0,Yelp,Restaurants,"Breakfast & Brunch, Coffee & Tea",Philz Coffee,"549 Castro St San Francisco, CA 94114",1.0,4.5,1104.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,185.0,Yelp,"Bars, Restaurants","Bars, Italian",Poesia,"4072 18th St San Francisco, CA 94114",3.0,4.0,869.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,197.0,Yelp,"Bars, Restaurants","Cocktail Bars, Greek, Mediterranean",Lark,"4068 18th St San Francisco, CA 94114",2.0,4.0,319.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,199.0,Yelp,Restaurants,Seafood,Anchor Oyster Bar,"579 Castro St San Francisco, CA 94114",2.0,4.5,1626.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,201.0,Yelp,Restaurants,"Dim Sum, Szechuan",MaMa Ji's,"4416 18th St San Francisco, CA 94114",2.0,4.0,867.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,201.0,Yelp,Restaurants,"Creperies, Pizza, Sandwiches",Pizzalicious,"417 Castro St San Francisco, CA 94114",,3.0,13.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,208.0,Yelp,"Bars, Restaurants","American (New), Wine Bars",Blind Butcher,"4058 18th St San Francisco, CA 94114",2.0,4.0,207.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,209.0,Yelp,Restaurants,"American (Traditional), Breakfast & Brunch, Diners",Orphan Andy's,"3991 17th St San Francisco, CA 94114",2.0,3.5,1034.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,215.0,Yelp,Restaurants,"Brazilian, Coffee & Tea",Cafe De Casa,"3985 17th St San Francisco, CA 94114",2.0,4.5,136.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,226.0,Yelp,Restaurants,"Noodles, Thai",Thai House Express,"599 Castro St San Francisco, CA 94114",2.0,3.5,656.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,241.0,Yelp,Restaurants,"Chicken Wings, Fast Food, Thai",Hungry Hub,"4039 18th St San Francisco, CA 94114",,4.5,4.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,241.0,Yelp,Restaurants,"Chicken Shop, Thai",Rooster & Rice,"4039 18th St San Francisco, CA 94114",2.0,4.0,59.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,241.0,Yelp,Restaurants,"Chicken Shop, Noodles, Soup",Mr.Hen Noodle House,"4039 18th St San Francisco, CA 94114",,4.5,4.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,280.0,Yelp,Restaurants,"Japanese, Soup, Sushi Bars",Niji Sushi & Bar,"3970 17th St San Francisco, CA 94114",,4.0,11.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,304.0,Yelp,Restaurants,"Indian, Salad, Vegan",Kasa Indian Eatery,"4001 18th St San Francisco, CA 94114",1.0,3.5,1133.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,323.0,Yelp,Restaurants,"American (New), Breakfast & Brunch, Seafood",Catch,"2362 Market St San Francisco, CA 94114",2.0,3.5,1009.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,330.0,Yelp,Restaurants,"Food Trucks, Ice Cream & Frozen Yogurt, Sandwiches",Treats By The Bay,"San Francisco, CA 94114",,4.5,9.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,350.0,Yelp,Restaurants,"Latin American, Mexican",Tacorgasmico,"2337 Market St San Francisco, CA 94114",2.0,4.0,332.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,399.0,Yelp,Restaurants,"Tacos, Vegan",Taco Boys,"2312 Market St San Francisco, CA 94114",2.0,4.0,99.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,418.0,Yelp,"Bars, Restaurants","American (New), Wine Bars",Frances,"3870 17th St San Francisco, CA 94114",3.0,4.5,1541.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,419.0,Yelp,Restaurants,"American (Traditional), Burgers",Super Duper Burgers,"2304 Market St San Francisco, CA 94114",2.0,4.0,1419.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,425.0,Yelp,Restaurants,"Breakfast & Brunch, Coffee & Tea, Sandwiches",Cafe Josephine,"199 Museum Way San Francisco, CA 94114",,5.0,24.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,436.0,Yelp,Restaurants,"Asian Fusion, Dim Sum",Dumpling House,"335 Noe St San Francisco, CA 94114",2.0,4.5,404.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,458.0,Yelp,Restaurants,Mexican,Bonita Taqueria Y Rotisserie,"3600 16th St San Francisco, CA 94114",2.0,4.5,77.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,44.0,Yelp,Bars,Cocktail Bars,Lobby Bar,"4230 18th St San Francisco, CA 94114",,4.5,21.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,45.0,Yelp,Bars,Gay Bars,The Edge,"4149 18th St San Francisco, CA 94114",1.0,3.5,185.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,45.0,Yelp,Bars,Gay Bars,Toad Hall Bar,"4146 18th St San Francisco, CA 94114",1.0,3.5,295.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,163.0,Yelp,Bars,Gay Bars,440 Castro,"440 Castro St San Francisco, CA 94114",1.0,3.5,213.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,167.0,Yelp,Bars,"Beer, Wine & Spirits, Wine Bars",Swirl on Castro,"572 Castro St San Francisco, CA 94114",2.0,4.5,134.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,169.0,Yelp,Bars,Gay Bars,The Mix,"4086 18th St San Francisco, CA 94114",2.0,3.5,303.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,187.0,Yelp,Bars,"Cocktail Bars, Gay Bars",Midnight Sun,"4067 18th St Castro San Francisco, CA 94114",1.0,3.5,202.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,212.0,Yelp,Bars,Gay Bars,Twin Peaks Tavern,"401 Castro St San Francisco, CA 94114",2.0,4.0,211.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,232.0,Yelp,Bars,Gay Bars,Moby Dick,"4049 18th St San Francisco, CA 94114",1.0,3.5,222.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,295.0,Yelp,Bars,"Dance Clubs, Gay Bars",The Caf,"2369 Market St San Francisco, CA 94114",2.0,3.5,308.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,348.0,Yelp,Bars,"Dive Bars, Gay Bars, Pubs",Last Call Bar,"3988 18th St San Francisco, CA 94114",1.0,4.5,106.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,362.0,Yelp,Bars,"Cocktail Bars, Dance Clubs, Gay Bars",Beaux,"2344 Market St San Francisco, CA 94114",2.0,3.5,290.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,458.0,Yelp,Bars,Gay Bars,Lookout,"3600 16th St San Francisco, CA 94114",2.0,3.5,356.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,490.0,Yelp,Bars,"American (New), Breakfast & Brunch, Cocktail Bars",Starbelly,"3583 16th St San Francisco, CA 94114",2.0,4.0,2162.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,565.0,Yelp,Bars,"Spanish, Tapas Bars, Wine Bars",Canela Bistro & Wine Bar,"2272 Market St San Francisco, CA 94114",3.0,4.5,755.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,603.0,Yelp,Bars,"Cocktail Bars, Mexican",Santeria,"2251 Market St San Francisco, CA 94114",2.0,4.5,249.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,611.0,Yelp,Bars,"American (New), Gay Bars, Sports Bars",Hi Tops,"2247 Market St San Francisco, CA 94114",2.0,4.0,456.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,693.0,Yelp,Bars,"Beer Bar, Breweries, Wineries",Woods Cervecera,"3801 18th St San Francisco, CA 94114",2.0,4.0,221.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,694.0,Yelp,Bars,"Arcades, Cocktail Bars, Pan Asian",The Detour,"2200 Market St Ste A San Francisco, CA 94114",2.0,4.0,371.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,700.0,Yelp,Bars,"Desserts, French, Wine Bars",LArdoise Bistro,"151 Noe St San Francisco, CA 94114",3.0,4.5,1382.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,930.0,Yelp,Bars,"French, Wine Bars",Aquitaine,"216 Church Street San Francisco, CA 94114",2.0,4.0,352.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,944.0,Yelp,Bars,"Bars, Venues & Event Spaces",Blackbird,"2124 Market St San Francisco, CA 94114",2.0,4.0,696.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,959.0,Yelp,Bars,"Cocktail Bars, Italian, Pizza",Il Casaro Pizzeria & Mozzarella Bar -  Castro,"235 Church St San Francisco, CA 94114",2.0,4.0,223.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,964.0,Yelp,Bars,Gay Bars,Pilsner Inn,"225 Church St San Francisco, CA 94114",1.0,3.5,253.0
+a2698d11-5b7e-4421-90ed-7d7225a58a67,"0,37.7934885",-122.4001044,994.0,Yelp,Bars,"Cocktail Bars, Tiki Bars",Last Rites,"718 14th St San Francisco, CA 94114",2.0,4.5,307.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,42.0,Yelp,Restaurants,"Japanese, Sushi Bars",Takara Sushi,"4243 18th St San Francisco, CA 94114",2.0,3.5,331.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,45.0,Yelp,"Bars, Restaurants","Cocktail Bars, Italian, Pizza",Vico Cavone,"4248 18th St San Francisco, CA 94114",,4.0,133.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,48.0,Yelp,Restaurants,"Food Delivery Services, Mexican",Nachos Muchachos,"4150 18th St San Francisco, CA 94114",,1.0,1.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,48.0,Yelp,Restaurants,"Food Delivery Services, Mexican",Sunny & Fine's Breakfast Burritos,"4150 18th St San Francisco, CA 94114",,1.5,7.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,50.0,Yelp,Restaurants,"Chicken Shop, Comfort Food, Food Delivery Services",Tyga Bites,"San Francisco, CA 94114",,2.0,1.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,59.0,Yelp,Restaurants,Thai,Thai Chef,"4133 18th St San Francisco, CA 94114",2.0,3.5,278.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,113.0,Yelp,"Bars, Restaurants","French, Wine Bars",Blush!,"476 Castro St San Francisco, CA 94114",2.0,4.0,321.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,113.0,Yelp,"Bars, Restaurants","American (New), Cocktail Bars, Indian",Castro Restaurant & Brewhouse,"468 Castro St San Francisco, CA 94114",,5.0,2.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,117.0,Yelp,Restaurants,"Pizza, Salad",Oz Pizza,"508 Castro St San Francisco, CA 94114",1.0,3.5,225.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,122.0,Yelp,Restaurants,"Japanese, Sushi Bars",Wasabi Bistro,"524 Castro St San Francisco, CA 94114",2.0,4.0,552.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,127.0,Yelp,Restaurants,"Breakfast & Brunch, Burgers, Mediterranean",Cafe Mystique,"464 Castro St San Francisco, CA 94114",2.0,3.5,675.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,139.0,Yelp,Restaurants,"Dim Sum, Noodles",Dumpling Kitchen,"544 Castro St San Francisco, CA 94114",2.0,4.5,56.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,147.0,Yelp,Restaurants,"American (Traditional), Diners",The Cove on Castro Cafe,"434 Castro St San Francisco, CA 94114",2.0,3.5,322.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,149.0,Yelp,Restaurants,Mexican,La Tortilla,"495 Castro St San Francisco, CA 94114",1.0,2.5,347.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,153.0,Yelp,Restaurants,"Beer, Wine & Spirits, Delis",Rossis Deli,"426 Castro St San Francisco, CA 94114",1.0,4.5,191.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,154.0,Yelp,Restaurants,"Italian, Pizza, Salad",The Sausage Factory,"517 Castro St San Francisco, CA 94114",2.0,3.5,622.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,158.0,Yelp,Restaurants,"Breakfast & Brunch, Sandwiches, Vietnamese",Castro Tarts,"564 Castro St San Francisco, CA 94114",1.0,4.0,317.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,158.0,Yelp,"Bars, Restaurants","American (New), Breakfast & Brunch, Wine Bars",Fable,"558 Castro St San Francisco, CA 94114",2.0,4.0,754.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,159.0,Yelp,Restaurants,Vietnamese,Tanglad,"469 Castro St San Francisco, CA 94114",2.0,4.5,225.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,163.0,Yelp,"Bars, Restaurants","Breakfast & Brunch, Cocktail Bars, Comfort Food",Wicked 6 Bar & Bites,"4092 18th St San Francisco, CA 94114",2.0,5.0,13.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,167.0,Yelp,Restaurants,"Greek, Kebab, Mediterranean",Gyro Xpress,"499 Castro St San Francisco, CA 94114",2.0,3.5,501.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,167.0,Yelp,"Bars, Restaurants","Italian, Sandwiches, Wine Bars",Heroic Italian,"572 Castro St Swirl on Castro Wine Bar San Francisco, CA 94114",,4.5,99.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,168.0,Yelp,Restaurants,"Gluten-Free, Pizza, Salad",Marcello's Pizza,"420 Castro St San Francisco, CA 94114",1.0,4.0,771.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,171.0,Yelp,Restaurants,"Caterers, Mediterranean, Turkish",Park Gyros Castro Catering & Events,"449 Castro St San Francisco, CA 94114",,4.0,1.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,172.0,Yelp,Restaurants,"Barbeque, Breakfast & Brunch, Sandwiches",HOT JOHNNIES,"4077 18th St San Francisco, CA 94114",2.0,4.5,360.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,180.0,Yelp,Restaurants,"Coffee & Tea, Italian",Poesia Caf,"4076 18th St San Francisco, CA 94114",,5.0,20.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,182.0,Yelp,Restaurants,"Breakfast & Brunch, Coffee & Tea",Philz Coffee,"549 Castro St San Francisco, CA 94114",1.0,4.5,1104.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,185.0,Yelp,"Bars, Restaurants","Bars, Italian",Poesia,"4072 18th St San Francisco, CA 94114",3.0,4.0,869.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,197.0,Yelp,"Bars, Restaurants","Cocktail Bars, Greek, Mediterranean",Lark,"4068 18th St San Francisco, CA 94114",2.0,4.0,319.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,199.0,Yelp,Restaurants,Seafood,Anchor Oyster Bar,"579 Castro St San Francisco, CA 94114",2.0,4.5,1626.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,201.0,Yelp,Restaurants,"Dim Sum, Szechuan",MaMa Ji's,"4416 18th St San Francisco, CA 94114",2.0,4.0,867.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,201.0,Yelp,Restaurants,"Creperies, Pizza, Sandwiches",Pizzalicious,"417 Castro St San Francisco, CA 94114",,3.0,13.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,208.0,Yelp,"Bars, Restaurants","American (New), Wine Bars",Blind Butcher,"4058 18th St San Francisco, CA 94114",2.0,4.0,207.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,209.0,Yelp,Restaurants,"American (Traditional), Breakfast & Brunch, Diners",Orphan Andy's,"3991 17th St San Francisco, CA 94114",2.0,3.5,1034.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,215.0,Yelp,Restaurants,"Brazilian, Coffee & Tea",Cafe De Casa,"3985 17th St San Francisco, CA 94114",2.0,4.5,136.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,226.0,Yelp,Restaurants,"Noodles, Thai",Thai House Express,"599 Castro St San Francisco, CA 94114",2.0,3.5,656.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,241.0,Yelp,Restaurants,"Chicken Wings, Fast Food, Thai",Hungry Hub,"4039 18th St San Francisco, CA 94114",,4.5,4.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,241.0,Yelp,Restaurants,"Chicken Shop, Thai",Rooster & Rice,"4039 18th St San Francisco, CA 94114",2.0,4.0,59.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,241.0,Yelp,Restaurants,"Chicken Shop, Noodles, Soup",Mr.Hen Noodle House,"4039 18th St San Francisco, CA 94114",,4.5,4.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,280.0,Yelp,Restaurants,"Japanese, Soup, Sushi Bars",Niji Sushi & Bar,"3970 17th St San Francisco, CA 94114",,4.0,11.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,304.0,Yelp,Restaurants,"Indian, Salad, Vegan",Kasa Indian Eatery,"4001 18th St San Francisco, CA 94114",1.0,3.5,1133.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,323.0,Yelp,Restaurants,"American (New), Breakfast & Brunch, Seafood",Catch,"2362 Market St San Francisco, CA 94114",2.0,3.5,1009.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,330.0,Yelp,Restaurants,"Food Trucks, Ice Cream & Frozen Yogurt, Sandwiches",Treats By The Bay,"San Francisco, CA 94114",,4.5,9.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,350.0,Yelp,Restaurants,"Latin American, Mexican",Tacorgasmico,"2337 Market St San Francisco, CA 94114",2.0,4.0,332.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,399.0,Yelp,Restaurants,"Tacos, Vegan",Taco Boys,"2312 Market St San Francisco, CA 94114",2.0,4.0,99.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,418.0,Yelp,"Bars, Restaurants","American (New), Wine Bars",Frances,"3870 17th St San Francisco, CA 94114",3.0,4.5,1541.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,419.0,Yelp,Restaurants,"American (Traditional), Burgers",Super Duper Burgers,"2304 Market St San Francisco, CA 94114",2.0,4.0,1419.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,425.0,Yelp,Restaurants,"Breakfast & Brunch, Coffee & Tea, Sandwiches",Cafe Josephine,"199 Museum Way San Francisco, CA 94114",,5.0,24.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,436.0,Yelp,Restaurants,"Asian Fusion, Dim Sum",Dumpling House,"335 Noe St San Francisco, CA 94114",2.0,4.5,404.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,458.0,Yelp,Restaurants,Mexican,Bonita Taqueria Y Rotisserie,"3600 16th St San Francisco, CA 94114",2.0,4.5,77.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,44.0,Yelp,Bars,Cocktail Bars,Lobby Bar,"4230 18th St San Francisco, CA 94114",,4.5,21.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,45.0,Yelp,Bars,Gay Bars,The Edge,"4149 18th St San Francisco, CA 94114",1.0,3.5,185.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,45.0,Yelp,Bars,Gay Bars,Toad Hall Bar,"4146 18th St San Francisco, CA 94114",1.0,3.5,295.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,163.0,Yelp,Bars,Gay Bars,440 Castro,"440 Castro St San Francisco, CA 94114",1.0,3.5,213.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,167.0,Yelp,Bars,"Beer, Wine & Spirits, Wine Bars",Swirl on Castro,"572 Castro St San Francisco, CA 94114",2.0,4.5,134.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,169.0,Yelp,Bars,Gay Bars,The Mix,"4086 18th St San Francisco, CA 94114",2.0,3.5,303.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,187.0,Yelp,Bars,"Cocktail Bars, Gay Bars",Midnight Sun,"4067 18th St Castro San Francisco, CA 94114",1.0,3.5,202.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,212.0,Yelp,Bars,Gay Bars,Twin Peaks Tavern,"401 Castro St San Francisco, CA 94114",2.0,4.0,211.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,232.0,Yelp,Bars,Gay Bars,Moby Dick,"4049 18th St San Francisco, CA 94114",1.0,3.5,222.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,295.0,Yelp,Bars,"Dance Clubs, Gay Bars",The Caf,"2369 Market St San Francisco, CA 94114",2.0,3.5,308.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,348.0,Yelp,Bars,"Dive Bars, Gay Bars, Pubs",Last Call Bar,"3988 18th St San Francisco, CA 94114",1.0,4.5,106.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,362.0,Yelp,Bars,"Cocktail Bars, Dance Clubs, Gay Bars",Beaux,"2344 Market St San Francisco, CA 94114",2.0,3.5,290.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,458.0,Yelp,Bars,Gay Bars,Lookout,"3600 16th St San Francisco, CA 94114",2.0,3.5,356.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,490.0,Yelp,Bars,"American (New), Breakfast & Brunch, Cocktail Bars",Starbelly,"3583 16th St San Francisco, CA 94114",2.0,4.0,2162.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,565.0,Yelp,Bars,"Spanish, Tapas Bars, Wine Bars",Canela Bistro & Wine Bar,"2272 Market St San Francisco, CA 94114",3.0,4.5,755.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,603.0,Yelp,Bars,"Cocktail Bars, Mexican",Santeria,"2251 Market St San Francisco, CA 94114",2.0,4.5,249.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,611.0,Yelp,Bars,"American (New), Gay Bars, Sports Bars",Hi Tops,"2247 Market St San Francisco, CA 94114",2.0,4.0,456.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,693.0,Yelp,Bars,"Beer Bar, Breweries, Wineries",Woods Cervecera,"3801 18th St San Francisco, CA 94114",2.0,4.0,221.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,694.0,Yelp,Bars,"Arcades, Cocktail Bars, Pan Asian",The Detour,"2200 Market St Ste A San Francisco, CA 94114",2.0,4.0,371.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,700.0,Yelp,Bars,"Desserts, French, Wine Bars",LArdoise Bistro,"151 Noe St San Francisco, CA 94114",3.0,4.5,1382.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,930.0,Yelp,Bars,"French, Wine Bars",Aquitaine,"216 Church Street San Francisco, CA 94114",2.0,4.0,352.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,944.0,Yelp,Bars,"Bars, Venues & Event Spaces",Blackbird,"2124 Market St San Francisco, CA 94114",2.0,4.0,696.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,959.0,Yelp,Bars,"Cocktail Bars, Italian, Pizza",Il Casaro Pizzeria & Mozzarella Bar -  Castro,"235 Church St San Francisco, CA 94114",2.0,4.0,223.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,964.0,Yelp,Bars,Gay Bars,Pilsner Inn,"225 Church St San Francisco, CA 94114",1.0,3.5,253.0
+54c91186-8493-44d1-ac4f-435350fee797,"0,37.778799",-122.4159632,994.0,Yelp,Bars,"Cocktail Bars, Tiki Bars",Last Rites,"718 14th St San Francisco, CA 94114",2.0,4.5,307.0
